@@ -1,0 +1,9 @@
+serial:text:text:int:text
+id:name:track:age:manager
+1:nouran:operating system:6:ahmed
+2:mostafa:java:25:mostafa
+3:yasser:cpp:24:yasser
+4:jimmy:civil:24:jimmy
+1:nouran:java:6:ahmed
+2:yasser:java:25:yasser
+4:men7a:civil:24:jimmy
